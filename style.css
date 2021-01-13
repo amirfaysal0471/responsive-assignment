@@ -1,0 +1,23 @@
+.size
+{
+    width: 80%;
+}
+#x-rap{
+    padding: 10px;
+    margin: 50px;
+}
+.buttoncolour
+{
+    color: white;
+    background-color: green;
+}
+header
+{
+    background-color: lightgoldenrodyellow;
+    height: 700px;
+}
+h2
+{
+    padding: 50px;
+    
+}
